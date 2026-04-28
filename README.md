@@ -63,7 +63,7 @@ The SkyTin 1090 uses a central Aviation Orange acrylic baffle to provide structu
 | **RF Path** | Connect a 12″ coax from the top SMA bulkhead down to the SDR's SMA port. |
 | **Data Path** | Use a short USB-C to USB-A pigtail to connect the SDR to the Pi. |
 | **Power Path** | Run a USB-C cable through a side-panel grommet; plug it directly into the Pi. |
-| **Fan Power** | Connect the fan's red/black wires to GPIO Pin 2 (5 V) and Pin 6 (GND). |
+| **Fan Power** | Connect the fan's red/black wires to GPIO Pin 2 (5 V) and Pin 6 (GND). If the fan is too loud at 5V, you can move the red wire to Pin 1 (3.3V) for a slower, quieter spin. |
 | **WiFi Antenna** | Route the 3″ stub antenna through the mesh lid so it hangs vertically. |
 
 ---
