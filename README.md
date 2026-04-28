@@ -2,7 +2,7 @@
 
 This project repurposes an Illy coffee tin into a high-performance, active-cooled Faraday cage and ground plane for an ADSB receiver.
 
-![skyting-1090 diagram](skyting-1090-diagram.png)
+![SkyTing Skyting Do Not Answer](skyting-1090-diagram.png)
 
 ---
 
