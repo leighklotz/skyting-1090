@@ -35,8 +35,9 @@ The SkyTin 1090 uses a central Aviation Orange acrylic baffle to provide structu
 * Use a 2.5mm or 3mm bit. Use a wood backing board while drilling to prevent the acrylic from cracking or "blowing out" the exit hole.
 - **A Side:** Mount the Orange Pi Zero 2W to the baffle using M2.5 black nylon standoffs.
 - **B Side:** Mount the SDR Stick (flipped 180° so the SMA port faces the top), using two black cable ties.
-- Position the air intake fan at the bottom of the baffle, on the Orange Pi side and drill a 35mm hole for it in the lid on one side.
-- Drill or nibble a 40mm half circle in the lid on the air outflow side of the baffle.
+- Position the air intake fan at the bottom of the baffle (not centered, on one side) on the Orange Pi side and drill a 28-32mm hole for it in the lid under the fan. Leave room for screws.
+- Drill and nibble a 40mm half circle in the lid on the air outflow side of the baffle.
+- Insert the mesh and leave a "skirt" so it makes contact with the can and makes the lid fit tightly, now that the plastic lid liner is gone.
 
 ---
 
