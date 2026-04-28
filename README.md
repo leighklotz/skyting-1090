@@ -39,7 +39,7 @@ The SkyTin 1090 uses a central Aviation Orange acrylic baffle to provide structu
 - Drill and nibble a 40mm half circle in the lid on the air outflow side of the baffle.
 - Insert the mesh and leave a "skirt" so it makes contact with the can and makes the lid fit tightly, now that the plastic lid liner is gone.
 
-## Lid Cutting Diagram
+## ✂️ Lid Cutting Diagram
 Not to scale; use your judgement.
 
 <img src="lid-cutting-diagram.png" width=400 alt="lid cutting diagram" />
