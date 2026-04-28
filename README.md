@@ -15,7 +15,6 @@ This project repurposes an Illy coffee tin into a high-performance, active-coole
 - This serves as your 1090 MHz ground plane.
 
 **Bottom (Lid) — Ventilation**
-- Drill 1″ vent holes.
 - Remove the plastic liner and sand the threads on both the can and the lid.
 - A tight fit is not necessary; leave room for the steel mesh.
 
@@ -23,11 +22,6 @@ This project repurposes an Illy coffee tin into a high-performance, active-coole
 - Screw the stainless steel mesh over the lid holes.
 - Ensure it makes direct contact with the sanded lid metal to block 1 GHz noise.
 - Measure DC continuity.
-
----
-
-## 📐 Internal Sled & Airflow
-
 
 ---
 
@@ -41,7 +35,8 @@ The SkyTin 1090 uses a central Aviation Orange acrylic baffle to provide structu
 * Use a 2.5mm or 3mm bit. Use a wood backing board while drilling to prevent the acrylic from cracking or "blowing out" the exit hole.
 - **A Side:** Mount the Orange Pi Zero 2W to the baffle using M2.5 black nylon standoffs.
 - **B Side:** Mount the SDR Stick (flipped 180° so the SMA port faces the top), using two black cable ties.
-- Mount the air intake fan at the bottom of the baffle, on the Orange Pi side.
+- Position the air intake fan at the bottom of the baffle, on the Orange Pi side and drill a 35mm hole for it in the lid on one side.
+- Drill or nibble a 40mm half circle in the lid on the air outflow side of the baffle.
 
 ---
 
