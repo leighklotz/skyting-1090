@@ -38,6 +38,23 @@ This project repurposes an aluminum coffee tin into a high-performance, active-c
 - Mount the 5 V fan at the bottom of the baffle.
 - Position it to blow outward through the mesh.
 
+**Acrylic Sheet**
+- Partial Height: The 4.5" height is critical. It leaves a 1-inch gap between the top of the baffle and the solid can bottom.
+- The Path: The intake fan (mounted at the bottom) forces cool air up the Orange Pi side, over the top of the baffle gap, and down the SDR side.
+- Thermal Benefit: This forces air to actively scrub the heat off the SDR’s internal LNA/SAW filter before exhausting out the bottom mesh, preventing frequency drift.
+
+---
+
+## 📐Internal Baffle & Mounting
+The SkyTin 1090 uses a central Aviation Orange acrylic baffle to provide structural mounting for the hardware and to dictate the internal airflow path.
+## Sizing & Cutting
+
+* Dimensions: Cut the sheet to 3.4" wide x 4.5" high (86mm x 114mm).
+* The Fit: The 3.4" width provides a "gravity fit" inside the 3.5" illy can. If the sled rattles, apply a single strip of electrical tape to the edge of the acrylic for a perfect friction fit.
+* Cutting Method: Use the "score and snap" method with a utility knife and a straight edge. Score the line 5-10 times and snap it over a clean table edge.
+* SBC Mounting: Use M2.5 Black Nylon Standoffs to secure the Orange Pi Zero 2W.
+* Drilling: Use a 2.5mm or 3mm bit. Use a wood backing board while drilling to prevent the acrylic from cracking or "blowing out" the exit hole.
+
 ---
 
 ## 🔌 Connectivity
