@@ -47,7 +47,6 @@ This project repurposes an aluminum coffee tin into a high-performance, active-c
 
 ## 📐Internal Baffle & Mounting
 The SkyTin 1090 uses a central Aviation Orange acrylic baffle to provide structural mounting for the hardware and to dictate the internal airflow path.
-## Sizing & Cutting
 
 * Dimensions: Cut the sheet to 3.4" wide x 4.5" high (86mm x 114mm).
 * The Fit: The 3.4" width provides a "gravity fit" inside the 3.5" illy can. If the sled rattles, apply a single strip of electrical tape to the edge of the acrylic for a perfect friction fit.
