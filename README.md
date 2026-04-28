@@ -42,7 +42,7 @@ The SkyTin 1090 uses a central Aviation Orange acrylic baffle to provide structu
 ## Lid Cutting Diagram
 Not to scale; use your judgement.
 
-![lid-cutting-diagram.png](lid-cutting-diagram.png)
+<img src="lid-cutting-diagram.png" width=400 alt="lid cutting diagram" />
 ---
 
 ## 🔌 Wiring It Up
