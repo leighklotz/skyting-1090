@@ -99,3 +99,4 @@ You now have a weather-resistant, thermally managed, and RF-shielded ADSB node r
 | Transparent Orange Cast Acrylic Sheet 1/8" | [Amazon B0D52G87L4](https://www.amazon.com/dp/B0D52G87L4) |
 | M2.5 Black Male Nylon Stanf Hex Kit | [Amazon B0FPMC9917](https://www.amazon.com/dp/B0FPMC9917) |
 | USB-C Bulkhead with Pigtail | [Amazon B0DRVKR5F4](https://www.amazon.com/dp/B0DRVKR5F4) |
+| USB-C Male to USB-A Female OTG Pigtail - 10 inch /90 Degree | [Amazon B0C89VL9TH](https://www.amazon.com/dp/B0C89VL9TH) |
