@@ -98,3 +98,4 @@ You now have a weather-resistant, thermally managed, and RF-shielded ADSB node r
 | Display Cable (for setup) | [Amazon B0DFYFSJDM](https://www.amazon.com/dp/B0DFYFSJDM) |
 | Transparent Orange Cast Acrylic Sheet 1/8" | [Amazon B0D52G87L4](https://www.amazon.com/dp/B0D52G87L4) |
 | M2.5 Black Male Nylon Stanf Hex Kit | [Amazon B0FPMC9917](https://www.amazon.com/dp/B0FPMC9917) |
+| USB-C Bulkhead with Pigtail | [Amazon B0DRVKR5F4](https://www.amazon.com/dp/B0DRVKR5F4) |
