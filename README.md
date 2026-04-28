@@ -10,17 +10,19 @@ This project repurposes an Illy coffee tin into a high-performance, active-coole
 
 **Top (Solid Bottom) — Ground Plane**
 - Drill a center hole in the solid metal base.
-- Sand the interior and exterior to bare silver metal.
+- Sand the can bottom interior and exterior near the hole to bare silver metal.
 - Install the SMA Bulkhead.
 - This serves as your 1090 MHz ground plane.
 
 **Bottom (Lid) — Ventilation**
 - Drill 1″ vent holes.
-- Remove the plastic liner and sand the threads.
+- Remove the plastic liner and sand the threads on both the can and the lid.
+- A tight fit is not necessary; leave room for the steel mesh.
 
 **RF Shielding**
 - Screw the stainless steel mesh over the lid holes.
 - Ensure it makes direct contact with the sanded lid metal to block 1 GHz noise.
+- Measure DC continuity.
 
 ---
 
@@ -35,8 +37,8 @@ This project repurposes an Illy coffee tin into a high-performance, active-coole
 - **Side B:** Mount the SDR Stick (flipped 180° so the SMA port faces the top).
 
 **Cooling**
-- Mount the 5 V fan at the bottom of the baffle.
-- Position it to blow outward through the mesh.
+- Mount the 5 V fan at the bottom of the baffle, on the Orange Pi side.
+- Position it to blow **outward** through the mesh.
 
 **Acrylic Sheet**
 - Partial Height: The 4.5" height is critical. It leaves a 1-inch gap between the top of the baffle and the solid can bottom.
