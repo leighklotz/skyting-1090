@@ -63,3 +63,19 @@ This project repurposes an aluminum coffee tin into a high-performance, active-c
 ## 💡 Result
 
 You now have a weather-resistant, thermally managed, and RF-shielded ADSB node ready for mounting.
+
+---
+
+## 🛒 Parts List
+
+| Part | Link |
+|---|---|
+| 35mm Hydraulic Bearing Fan | [Amazon B07V35FR4Z](https://www.amazon.com/dp/B07V35FR4Z) |
+| Orange Pi Zero 2W | [Amazon B0CHMGNY3W](https://www.amazon.com/dp/B0CHMGNY3W) |
+| SDR+LNA+SAW: ADSBexchange.com Blue R820T2 RTL2832U, 0.5 PPM TCXO ADS-B SDR w/Amp and 1090 MHz Filter, Antenna, & Software on Industrial MicroSD | [ADSBexchange.com](https://www.adsbexchange.com) |
+| Illy Coffee Can | — |
+| AMZDEPOT 6 Pack 6×8 Inch Wire Mesh, 20 Mesh Stainless Steel | [Amazon B0C5X98VTD](https://www.amazon.com/dp/B0C5X98VTD) |
+| exgoofit SMA Bulkhead Adapter Female Coupler 2-Pack Waterproof Panel Mount Connector for RF Coaxial Antennas | [Amazon B0D66Y7C6J](https://www.amazon.com/dp/B0D66Y7C6J) |
+| Coax Jumpers | [Amazon B07MJQWH8S](https://www.amazon.com/dp/B07MJQWH8S) |
+| Power Supply | [Amazon B07W8XHMJZ](https://www.amazon.com/dp/B07W8XHMJZ) |
+| Display Cable (for setup) | [Amazon B0DFYFSJDM](https://www.amazon.com/dp/B0DFYFSJDM) |
