@@ -72,9 +72,9 @@ You now have a weather-resistant, thermally managed, and RF-shielded ADSB node r
 
 # Actual Results
 - Need to provide right-angle SMA and USB connectors to fit into can
-- 90 Degree USB 3.0 Adapter 2 Pack
-- CNARIO Coax 90 Degree Adapter Connector, SMA Male to Male Right Angle Connector
-- Geekworm Heatsink CPU Cooler for Raspberry Pi, 8PCS Copper Heatsinks with Thermal Conductive Adhesive
+- [https://www.amazon.com/dp/B0D47TSTV9](90 Degree USB 3.0 Adapter 2 Pack )
+- [https://www.amazon.com/dp/B0DT88DNXY](CNARIO Coax 90 Degree Adapter Connector, SMA Male to Male Right Angle Connector)
+- [https://www.amazon.com/dp/B0B2CP1G23](Geekworm Heatsink CPU Cooler for Raspberry Pi, 8PCS Copper Heatsinks with Thermal Conductive Adhesive)
 - Used lunchbox divider and double-sided tape instead of the orange acrylic and standoffs
 - Mounted fan with 2 standoffs due to hole constraints
 - Mesh is on the outside, taped on edges, probably not good RF contact
