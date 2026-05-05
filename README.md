@@ -79,6 +79,7 @@ You now have a weather-resistant, thermally managed, and RF-shielded ADSB node r
 - Used lunchbox divider and double-sided tape instead of the orange acrylic and standoffs
 - Mounted fan with 2 standoffs due to hole constraints
 - Mesh is on the outside, taped on edges, probably not good RF contact
+- Fan is exhaust on Orange Pi side; intake is on SDR side (contrary to diagram)
  
 ## 🛒 Parts List
 
