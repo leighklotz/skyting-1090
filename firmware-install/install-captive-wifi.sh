@@ -61,6 +61,6 @@ systemctl enable autohotspot.service
 echo "=========================================="
 echo "Installation complete!"
 echo "If your board boots and can't find its configured Wi-Fi,"
-echo "it will host 'ADSB-Fallback-SSH' (Password123)."
+echo "it will provide Access Point 'SkyTing-1090' (password: password)."
 echo "You can then SSH in using: ssh armbian@10.42.0.1"
 echo "=========================================="
