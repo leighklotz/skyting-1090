@@ -1,0 +1,17 @@
+# Created by Armbian firstlogin script
+network:
+  wifis:
+    wlan0:
+      dhcp4: yes
+      dhcp6: no
+      access-points:
+        "ABCDEF":
+          password: "askuidhfhkuasdf"
+          priority: 10
+        "ghijkl":
+          password: "978sdf897fd"
+          priority: 5
+        "mnopq":
+          password: "s780ef789s"
+          priority: 1
+
