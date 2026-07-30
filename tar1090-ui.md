@@ -19,12 +19,14 @@ The letter buttons are also keyboard shortcuts.
 | Corner brackets | Full-screen map |
 | Gear | Display settings and units |
 | + / − | Zoom in/out |
+| 20 NM Circle | Map distance scale |
+
+| Color | Mmeaning |
 | Aircraft symbols | Position and heading, craft type and size |
 | Colored trails | Aircraft trail, color=altitude |
 | Bottom color bar | Altitude-color scale |
-| 20 NM Circle | Map distance scale |
-| Red/Orange/Yellow aircraft | 0-8kft atltitude |
-| Green/Blue aircraft | 8k-30k ft atltitude |
-| Purple aircraft | 30,000+ |
+| Red/Orange/Yellow aircraft | 0-8kft atltitude (small planes, or climb/descend) |
+| Green/Blue aircraft | 8k-30k ft atltitude (small jets, or climb/descend) |
+| Purple aircraft | 30,000+ (just passing through, often fly over airports anyway) |
 | Gray aircraft | On the ground |
 
