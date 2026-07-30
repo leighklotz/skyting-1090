@@ -18,7 +18,7 @@ The letter buttons are also keyboard shortcuts.
 | Left arrow | Open/show the aircraft sidebar |
 | Corner brackets | Full-screen map |
 | ⚙ Gear | Display settings and units, infoblock, route, etc. |
-| + / − | Zoom in/out |
+| + / −, pinch | Zoom in/out |
 | 20 NM Circle | Map distance scale |
 
 Color Chart
