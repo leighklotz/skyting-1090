@@ -1,3 +1,5 @@
+The letter buttons are also keyboard shortcuts. 
+
 | Text/icon | Function |
 | :--- | :--- |
 | **U** | Show only military/interesting aircraft |
@@ -17,11 +19,12 @@
 | Corner brackets | Full-screen map |
 | Gear | Display settings and units |
 | + / − | Zoom in/out |
-| Aircraft symbols | Position and heading |
-| Colored trails | Previous aircraft positions |
+| Aircraft symbols | Position and heading, craft type and size |
+| Colored trails | Aircraft trail, color=altitude |
 | Bottom color bar | Altitude-color scale |
-| 20 NM | Map distance scale |
-| Orange–purple aircraft colors | Approximate altitude |
+| 20 NM Circle | Map distance scale |
+| Red/Orange/Yellow aircraft | 0-8kft atltitude |
+| Green/Blue aircraft | 8k-30k ft atltitude |
+| Purple aircraft | 30,000+ |
 | Gray aircraft | On the ground |
 
-The letter buttons are also keyboard shortcuts. 
