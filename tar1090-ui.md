@@ -14,7 +14,7 @@ The letter buttons are also keyboard shortcuts.
 | **I** | Isolate selected aircraft |
 | **R** | Follow a random aircraft |
 | **F** | Follow selected aircraft |
-| Stacked layers | Choose base map and overlays |
+| Stacked layers | Choose base map and overlays, RX range outline |
 | Left arrow | Open/show the aircraft sidebar |
 | Corner brackets | Full-screen map |
 | Gear | Display settings and units |
