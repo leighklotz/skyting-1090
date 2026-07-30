@@ -21,7 +21,9 @@ The letter buttons are also keyboard shortcuts.
 | + / − | Zoom in/out |
 | 20 NM Circle | Map distance scale |
 
-| Color | Mmeaning |
+Altitude Color Chart
+| Color | Meaning |
+| :--- | :--- |
 | Aircraft symbols | Position and heading, craft type and size |
 | Colored trails | Aircraft trail, color=altitude |
 | Bottom color bar | Altitude-color scale |
