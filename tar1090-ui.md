@@ -21,7 +21,7 @@ The letter buttons are also keyboard shortcuts.
 | + / − | Zoom in/out |
 | 20 NM Circle | Map distance scale |
 
-Altitude Color Chart
+Color Chart
 | Color | Meaning |
 | :--- | :--- |
 | Aircraft symbols | Position and heading, craft type and size |
