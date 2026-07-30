@@ -17,7 +17,7 @@ The letter buttons are also keyboard shortcuts.
 | Stacked layers | Choose base map and overlays, RX range outline |
 | Left arrow | Open/show the aircraft sidebar |
 | Corner brackets | Full-screen map |
-| Gear | Display settings and units |
+| ⚙ Gear | Display settings and units, infoblock, route, etc. |
 | + / − | Zoom in/out |
 | 20 NM Circle | Map distance scale |
 
